@@ -16,6 +16,9 @@
 **Matplotlib and Seaborn documentation**
 
 # 
+**Output**  
 
 
 ![image](https://github.com/user-attachments/assets/65437e9e-b6e5-469e-8124-d77ec6c6eb9d)
+#
+![image](https://github.com/user-attachments/assets/f5dafecf-ac87-4b43-9723-88c0f9a88f30)
